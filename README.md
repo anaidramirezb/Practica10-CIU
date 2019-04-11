@@ -6,7 +6,7 @@
   El sensor tiene un rango de medición de distancia eficaz de entre 10 y 80 centímetros. Mientras más cerca se encuentre un objeto y menor sea la distancia, el sensor reporta un voltaje más alto. 
 
 Integrantes:
-Cabrera Galván Miriam
-Lerma Molina Alan Alberto
-Ramírez Bautista Anaid
+Cabrera Galván Miriam,
+Lerma Molina Alan Alberto,
+Ramírez Bautista Anaid,
 Sabina Sánchez Graciela
